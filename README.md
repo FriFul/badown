@@ -16,7 +16,7 @@ It requires:
 ### usage
 To execute the script give it execute right.  
 `chmod +x badown`
-  
+ ll
 To download a file:  
 `./badown 'https://mega.nz/#F!NogxFaIK!PavsMkUPQSXJ_o5zwCs5Ew'`  
 `./badown 'https://mega.nz/folder/NogxFaIK#PavsMkUPQSXJ_o5zwCs5Ew'`  
